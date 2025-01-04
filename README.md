@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VGjonaj
 - 👀 I’m interested in Programing obiviously
-- 🌱 I’m currently learning oython
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on any interesting projects
 
 
